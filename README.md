@@ -14,7 +14,7 @@ Here is how to set this thing up:
 
 1. Clone the repository into your Wordpress `themes` folder.
 2. Change the name of the cloned folder from `Underscores-Theme-w--Foundation-5` to `yourThemeName` .
-3. Use a find and replace to change 'foundation5_s' to the name of your theme in all the template files.
+3. Use a find and replace to change `foundation5_s` to the name of your theme in all the template files.
 4. Update the stylesheet header in style.css.scss located in the SASS folder.
 5. Update or delete this readme.
 6. Activate your theme and start customizing.
